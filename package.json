@@ -1,0 +1,20 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Diretório de exemplos de promises no JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonNascimentoAFSN/promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonNascimentoAFSN/promises/issues"
+  },
+  "homepage": "https://github.com/AndersonNascimentoAFSN/promises#readme"
+}
